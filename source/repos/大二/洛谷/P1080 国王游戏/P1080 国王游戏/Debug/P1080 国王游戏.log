@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\liang\source\repos\p1080 国王游戏\p1080 国王游戏\源.cpp(86): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\liang\source\repos\p1080 国王游戏\p1080 国王游戏\源.cpp(103): warning C4172: 返回局部变量或临时变量的地址: c
+  P1080 国王游戏.vcxproj -> C:\Users\LIANG\source\repos\P1080 国王游戏\Debug\P1080 国王游戏.exe

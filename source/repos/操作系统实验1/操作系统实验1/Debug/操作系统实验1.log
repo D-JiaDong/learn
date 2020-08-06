@@ -1,0 +1,138 @@
+﻿  Mian.c
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(65): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 参见“getch”的声明
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(83): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(91): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(110): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(114): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(118): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(122): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(126): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(168): error C2065: “pcb”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(168): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(168): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(168): error C2100: 非法的间接寻址
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(187): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(187): warning C4047: “=”:“int”与“PCB *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(187): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(187): warning C4047: “!=”:“int”与“void *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(187): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(191): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(191): error C2100: 非法的间接寻址
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(191): error C2224: “.process_name”的左侧必须具有结构/联合类型
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(191): error C2198: “strcmp”: 用于调用的参数太少
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(194): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(194): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(199): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(199): error C2100: 非法的间接寻址
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(199): error C2224: “.process_name”的左侧必须具有结构/联合类型
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(199): error C2198: “strcmp”: 用于调用的参数太少
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(201): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(201): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(201): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(202): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(202): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(205): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(205): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(208): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(208): warning C4047: “=”:“int”与“PCB *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(208): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(208): warning C4047: “!=”:“int”与“void *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(208): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(212): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(212): error C2100: 非法的间接寻址
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(212): error C2224: “.process_name”的左侧必须具有结构/联合类型
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(212): error C2198: “strcmp”: 用于调用的参数太少
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(215): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(215): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(220): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(220): error C2100: 非法的间接寻址
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(220): error C2224: “.process_name”的左侧必须具有结构/联合类型
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(220): error C2198: “strcmp”: 用于调用的参数太少
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(222): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(222): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(222): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(223): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(223): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(226): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(226): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(229): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(229): warning C4047: “=”:“int”与“PCB *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(229): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(229): warning C4047: “!=”:“int”与“void *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(229): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(233): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(233): error C2100: 非法的间接寻址
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(233): error C2224: “.process_name”的左侧必须具有结构/联合类型
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(233): error C2198: “strcmp”: 用于调用的参数太少
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(236): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(236): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(241): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(241): error C2100: 非法的间接寻址
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(241): error C2224: “.process_name”的左侧必须具有结构/联合类型
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(241): error C2198: “strcmp”: 用于调用的参数太少
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(243): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(243): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(243): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(244): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(244): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(247): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(247): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(250): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(250): warning C4047: “=”:“int”与“PCB *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(250): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(250): warning C4047: “!=”:“int”与“void *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(250): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(254): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(254): error C2100: 非法的间接寻址
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(254): error C2224: “.process_name”的左侧必须具有结构/联合类型
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(254): error C2198: “strcmp”: 用于调用的参数太少
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(257): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(257): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(262): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(262): error C2100: 非法的间接寻址
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(262): error C2224: “.process_name”的左侧必须具有结构/联合类型
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(262): error C2198: “strcmp”: 用于调用的参数太少
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(264): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(264): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(264): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(265): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(265): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(268): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(268): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(186): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(278): error C2065: “pcb”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(278): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(278): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(278): error C2100: 非法的间接寻址
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(287): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(287): warning C4047: “=”:“int”与“PCB *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(289): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(289): warning C4047: “=”:“int”与“PCB *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(293): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(293): warning C4047: “=”:“int”与“PCB *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(294): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(294): warning C4047: “=”:“int”与“PCB *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(306): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(306): warning C4047: “=”:“int”与“pcb *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(308): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(308): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(312): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(312): error C2223: “->next”的左侧必须指向结构/联合
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(318): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(318): warning C4047: “=”:“int”与“PCB *”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(323): error C2065: “q”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(323): warning C4047: “=”:“PCB *”与“int”的间接级别不同
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(333): error C2065: “pcb”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(333): error C2065: “p”: 未声明的标识符
+c:\users\liang\source\repos\操作系统实验1\操作系统实验1\mian.c(333): fatal error C1003: 错误计数超过 100；正在停止编译

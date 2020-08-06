@@ -1,0 +1,7 @@
+﻿  源.cpp
+c:\users\liang\source\repos\大二\数据结构\实训题目\选题四十二：学生成绩系统\选题四十二：学生成绩系统\源.cpp(177): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\liang\source\repos\大二\数据结构\实训题目\选题四十二：学生成绩系统\选题四十二：学生成绩系统\源.cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\liang\source\repos\大二\数据结构\实训题目\选题四十二：学生成绩系统\选题四十二：学生成绩系统\源.cpp(361): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\liang\source\repos\大二\数据结构\实训题目\选题四十二：学生成绩系统\选题四十二：学生成绩系统\源.cpp(406): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\liang\source\repos\大二\数据结构\实训题目\选题四十二：学生成绩系统\选题四十二：学生成绩系统\源.cpp(390): warning C4715: “search_2name”: 不是所有的控件路径都返回值
+  选题四十二：学生成绩系统.vcxproj -> C:\Users\LIANG\source\repos\大二\数据结构\实训题目\选题四十二：学生成绩系统\Debug\选题四十二：学生成绩系统.exe

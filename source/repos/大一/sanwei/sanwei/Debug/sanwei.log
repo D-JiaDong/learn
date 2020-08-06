@@ -1,0 +1,3 @@
+﻿  源.cpp
+c:\users\liang\source\repos\sanwei\sanwei\源.cpp(10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  sanwei.vcxproj -> C:\Users\LIANG\source\repos\sanwei\Debug\sanwei.exe

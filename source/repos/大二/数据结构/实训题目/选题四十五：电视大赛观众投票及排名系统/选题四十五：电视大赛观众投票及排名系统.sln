@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "选题四十五：电视大赛观众投票及排名系统", "选题四十五：电视大赛观众投票及排名系统\选题四十五：电视大赛观众投票及排名系统.vcxproj", "{182CDDC4-93E4-4177-BDF4-091F0B36FB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182CDDC4-93E4-4177-BDF4-091F0B36FB74}.Debug|x64.ActiveCfg = Debug|x64
+		{182CDDC4-93E4-4177-BDF4-091F0B36FB74}.Debug|x64.Build.0 = Debug|x64
+		{182CDDC4-93E4-4177-BDF4-091F0B36FB74}.Debug|x86.ActiveCfg = Debug|Win32
+		{182CDDC4-93E4-4177-BDF4-091F0B36FB74}.Debug|x86.Build.0 = Debug|Win32
+		{182CDDC4-93E4-4177-BDF4-091F0B36FB74}.Release|x64.ActiveCfg = Release|x64
+		{182CDDC4-93E4-4177-BDF4-091F0B36FB74}.Release|x64.Build.0 = Release|x64
+		{182CDDC4-93E4-4177-BDF4-091F0B36FB74}.Release|x86.ActiveCfg = Release|Win32
+		{182CDDC4-93E4-4177-BDF4-091F0B36FB74}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DD84FB7-578B-4F5C-B818-05F0B55F4FA6}
+	EndGlobalSection
+EndGlobal

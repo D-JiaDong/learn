@@ -1,0 +1,3 @@
+﻿  mian.cpp
+c:\users\liang\source\repos\实验5.5\实验5.5\mian.cpp(26): warning C4326: “main”的返回类型应为“int”而非“void”
+  实验5.5.vcxproj -> C:\Users\LIANG\source\repos\实验5.5\Debug\实验5.5.exe

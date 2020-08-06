@@ -1,0 +1,2 @@
+﻿源1.obj : error LNK2005: _main 已经在 源.obj 中定义
+C:\Users\LIANG\source\repos\大一\全排列输出\Debug\全排列输出.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
